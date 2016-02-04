@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("EBImage", "display", "Image", "Grayscale", "readImage")
+importFrom("graphics", "hist")
+importFrom("utils", "write.csv")
